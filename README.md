@@ -1,4 +1,4 @@
-# M-M-Sorter
+# M&M-Sorter
 Sort your candy by color
 
 Sort your round shaped candy by color using a Raspberry Pi (again) and a USB camera.
